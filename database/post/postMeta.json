@@ -1,0 +1,13 @@
+{
+    "title": "Second Post",
+    "description": "Blog is going great. I'm writing code to help me manage posts",
+    "author": "matt mullin",
+    "tags": "[second, post, great, stuff, really, nice]",
+    "images": [
+        {
+            "filename": "null.jpg", 
+            "data": ""
+        }
+    ],
+    "date": "2021-10-4"
+}
